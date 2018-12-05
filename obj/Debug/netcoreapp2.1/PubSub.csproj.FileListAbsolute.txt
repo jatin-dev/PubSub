@@ -1,0 +1,11 @@
+C:\CloudPoc\PubSub\obj\Debug\netcoreapp2.1\PubSub.csprojAssemblyReference.cache
+C:\CloudPoc\PubSub\obj\Debug\netcoreapp2.1\PubSub.csproj.CoreCompileInputs.cache
+C:\CloudPoc\PubSub\obj\Debug\netcoreapp2.1\PubSub.AssemblyInfoInputs.cache
+C:\CloudPoc\PubSub\obj\Debug\netcoreapp2.1\PubSub.AssemblyInfo.cs
+C:\CloudPoc\PubSub\bin\Debug\netcoreapp2.1\PubSub.deps.json
+C:\CloudPoc\PubSub\bin\Debug\netcoreapp2.1\PubSub.runtimeconfig.json
+C:\CloudPoc\PubSub\bin\Debug\netcoreapp2.1\PubSub.runtimeconfig.dev.json
+C:\CloudPoc\PubSub\bin\Debug\netcoreapp2.1\PubSub.dll
+C:\CloudPoc\PubSub\bin\Debug\netcoreapp2.1\PubSub.pdb
+C:\CloudPoc\PubSub\obj\Debug\netcoreapp2.1\PubSub.dll
+C:\CloudPoc\PubSub\obj\Debug\netcoreapp2.1\PubSub.pdb
