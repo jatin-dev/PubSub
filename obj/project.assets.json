@@ -142,7 +142,7 @@
           "lib/netstandard1.5/Grpc.Auth.dll": {}
         }
       },
-      "Grpc.Core/1.17.0-pre3": {
+      "Grpc.Core/1.17.0": {
         "type": "package",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
@@ -1244,16 +1244,16 @@
         "lib/netstandard1.5/Grpc.Auth.xml"
       ]
     },
-    "Grpc.Core/1.17.0-pre3": {
-      "sha512": "RIPwgNOZNVSFPjApy9N0w0JSnvRe5+a4oNOmxXbm51UqxmixooXtlEhO8I16EdlA02Bu5Xz1XOP+vgupgwzXUw==",
+    "Grpc.Core/1.17.0": {
+      "sha512": "Up/3nDC3uHiTVuZleehUo81vVegYafllz7/h1Fm+p3/p+kMNCa1eBGc58OkXMooDNYM/NFjve8Ab5SgIww8Zew==",
       "type": "package",
-      "path": "grpc.core/1.17.0-pre3",
+      "path": "grpc.core/1.17.0",
       "files": [
         ".signature.p7s",
         "build/MonoAndroid10/Grpc.Core.targets",
         "build/Xamarin.iOS10/Grpc.Core.targets",
         "build/net45/Grpc.Core.targets",
-        "grpc.core.1.17.0-pre3.nupkg.sha512",
+        "grpc.core.1.17.0.nupkg.sha512",
         "grpc.core.nuspec",
         "lib/net45/Grpc.Core.dll",
         "lib/net45/Grpc.Core.pdb",
@@ -4135,7 +4135,7 @@
     ".NETCoreApp,Version=v2.1": [
       "Google.Cloud.PubSub.V1 >= 1.0.0",
       "Google.Protobuf >= 3.6.1",
-      "Grpc.Core >= 1.17.0-pre3",
+      "Grpc.Core >= 1.17.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -4190,7 +4190,7 @@
           },
           "Grpc.Core": {
             "target": "Package",
-            "version": "[1.17.0-pre3, )"
+            "version": "[1.17.0, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",

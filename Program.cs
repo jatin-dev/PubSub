@@ -17,10 +17,15 @@ namespace PubSub
 
 		public static void Main(string[] args)
 		{
-            string value = Environment.GetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS");
-            Console.WriteLine("hello"+value);
-			PublishToTopic();
-			PublishToTopic();
+			bool keepbooking =true;
+while(keepbooking)
+{
+			
+           
+           // string value = Environment.GetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS");
+            //Console.WriteLine("hello"+value);
+			//PublishToTopic();
+			//PublishToTopic();
 
 			// The loop is necessary as pull doesn't always brings back all your messages
 			var response = ShowMessagesForSubscription();
@@ -28,6 +33,12 @@ namespace PubSub
 			{
 				response = ShowMessagesForSubscription();
 			}
+
+		// 	 Console.WriteLine("press y to continue"); 
+        //    var key =Console.ReadLine();
+        //   keepbooking= (key.Contains('y'));
+		}
+
 		}
 
 		private static void CreateTopic()
